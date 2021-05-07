@@ -1,4 +1,6 @@
-Haven't created a README here yet, but this is my second GitHub account that I use mainly for personal:tm: projects that I want to keep separate from my main account for some reason or another.
+*WIP Description*
+
+This is my second GitHub account that I use mainly for personal:tm: projects that I want to keep separate from my main account for some reason or another.
 
 I do work in many language, mainly Python as of late. 
 
